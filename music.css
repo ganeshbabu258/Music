@@ -1,0 +1,76 @@
+.name {
+  background-color: rgb(95, 93, 93);
+  margin: 12px 50px;
+  border-radius: 20px;
+}
+
+h1 {
+  font-family: "Protest Guerrilla", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: white;
+  text-shadow: 5px 5px 5px rgb(0, 191, 255);
+  margin-left: 70px;
+  padding: 12px;
+}
+
+.nav {
+  margin: 12px 50px;
+  border-radius: 20px;
+  padding: 12px;
+}
+
+button {
+  background-color:  rgb(95, 93, 93);
+  margin-left: 12px;
+  border-radius: 12px;
+  margin: 12px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  color: goldenrod;
+}
+
+img {
+  border: 5px solid #555;
+  border-style: inset;
+  margin-left: 30px;
+  box-shadow: 6px 6px 6px;
+}
+
+#box1{
+    border: 2px;
+    border-color: white;
+    border-style: dashed;
+    height: 220px;
+    width: 90%;
+    margin-left: 67px;
+    border-radius: 20px;
+    
+   
+}
+
+.maincontent{
+    background-color:  rgb(95, 93, 93) ;
+    padding: 20px;
+    margin:12px 60px;
+    border-radius: 20px;
+}
+
+.footer{
+    background-color: rgb(95, 93, 93);
+    color: white;
+    text-align: center;
+    margin:12px 60px;
+    border-radius: 20px;
+    padding: 2px
+}
+
+p{
+    padding-top: 10px;
+}
